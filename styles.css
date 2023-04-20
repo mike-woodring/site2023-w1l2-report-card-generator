@@ -184,7 +184,7 @@ main {
   background: var(--teal);
   color: white;
 }
-.dropdown.closed .dropdown-menu {
+.dropdown.closed .dropdown-menu.closed {
   height: 0;
   border: none;
   display: none;
